@@ -1,0 +1,20 @@
+# This file contains information about the physical parameters for a simulated nanopore# GEOMETRIC PARAMETERS (in nm)
+pore_radius 30
+pore_length 10
+reservoir_radius 300
+reservoir_length 10
+
+# CHEMICAL PARAMETERS (in SI units)
+surface_charge 0.01
+bulk_concentration 0.5
+relative_permitivity 80
+diffusivity 2e-09
+
+# NORMALIZATION (in SI units)
+unit_length 3.0000000000000004e-08
+unit_concentration 0.5
+unit_voltage 0.025625000000000002
+unit_diffusivity 2e-09
+unit_permitivity 8.85e-12
+unit_time 4.500000000000001e-07
+unit_charge 6.803437500000003e-21
